@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+}
+
+h1 {
+  color: blue;
+  font-size: 3rem;
+}
+
+section {
+  background-color: hotpink;
+}
+
+.introduction {
+  font-style: italic;
+  padding: 16px;
+}
+
+a:hover {
+  color: crimson;
+}
